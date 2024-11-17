@@ -8,6 +8,7 @@ Berisi berbagai database gambar yang bisa dipakai untuk para developer bot, terd
 
 # NOTE!!
 **Beberapa file yang berisi data dari link "discord.app" sedang tidak berfungsi, akan diupdate sesegera mungkin**
+Report file yang error ke sini: [_**EMAIL**_](contact.rzmodderdev@gmail.com)
 
 # THANKS TO
 - Allah SWT
