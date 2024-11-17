@@ -10,6 +10,18 @@ Berisi berbagai database gambar yang bisa dipakai untuk para developer bot, terd
 **Beberapa file yang berisi data dari link "discord.app" sedang tidak berfungsi, akan diupdate sesegera mungkin**
 Report file yang error ke sini: **contact.rzmodderdev@gmail.com**
 
+# CARA PENGGUNAAN
+Pindah ke branch master lalu lihat file yang kalian perlukan, lalu gunakan link seperti berikut
+```bash
+https://raw.githubusercontent.com/rzmodderdevv/RezzMedia/master/akira.json
+```
+ubah "akira.json" jadi nama file yang kalian inginkan
+_**CONTOH KODE :**_
+```bash
+if (/akira/.test(command)) heyy = await fetchJson('https://raw.githubusercontent.com/rzmodderdevv/RezzMedia/master/akira.json')
+```
+ganti "heyy" sesuai sc kalian dan nama file jadi yang kalian butuh kan
+
 # THANKS TO
 - Allah SWT
 - My Parents
